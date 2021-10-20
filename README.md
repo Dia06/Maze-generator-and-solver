@@ -7,8 +7,7 @@
    
      
        
-       
- Run the following command:
+ Clone this repository and then run the following command:
  
  ```
 python3 run.py
